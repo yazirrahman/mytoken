@@ -1,16 +1,14 @@
-# mytoken
-# solidity
+# Solidity
 I am demonstrating the codes i have learnt fom METACRAFTERS
-
-Good morning, I am Yasir. Today i am demonstrating 'How to create and Deploy a Token named "ELIZA" in to the Blockchain' 
+ie, 'How to create and Deploy a Token named "ELIZA" in to the Blockchain' 
 and then mint some tokens using mint function and later burning those tokens using the burn function
 
-# public variables
-Assigning the name and abbrevation of the token
-# mapping variable
-Address given by the user should show the balance of token on that address using mapping variable
+# Public Variables
+Starting with assigning the name and abbrevation of the token using string variable
+# Mapping Variable
+This part means that if the address is given by any user it should display back the balance amount of tokens.
 
-# mint function
-use to add tokens to the total supply of that token
-# burn function
-use to burn or destroy tokens from the total supply of that token
+# Mint Function
+This function is used to add or generate more tokens to the total supply of that token.
+# Burn Function
+use to burn or destroy tokens from the total supply of that token. provide 'if' inorder to avoid burning tokens more than the total supply.
